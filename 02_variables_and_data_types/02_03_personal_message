@@ -1,2 +1,6 @@
-message = "Hello Anderson would like to meet and work on your work today to imrpove your grades?"
-print (message)
+first_name = "Anderson"
+last_name = "Edouard"
+
+print ( "Hello, Anderson, would you like to get this assignment done today")
+
+
