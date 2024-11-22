@@ -1,0 +1,6 @@
+alien_invasion/
+│
+├── alien_invasion.py   # Your main Python script
+├── ship.py             # Ship class (if separate file)
+├── images/             # Folder containing images
+│   └── ship.bmp        # Your ship image
